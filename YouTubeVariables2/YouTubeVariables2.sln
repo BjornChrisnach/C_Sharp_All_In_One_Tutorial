@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YouTubeVariables2", "YouTubeVariables2\YouTubeVariables2.csproj", "{FBD29BAD-B512-4159-BC01-E1725343BFB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBD29BAD-B512-4159-BC01-E1725343BFB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBD29BAD-B512-4159-BC01-E1725343BFB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBD29BAD-B512-4159-BC01-E1725343BFB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBD29BAD-B512-4159-BC01-E1725343BFB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {903D920C-AA4D-42A2-AA17-5D6D11EBC645}
+	EndGlobalSection
+EndGlobal
